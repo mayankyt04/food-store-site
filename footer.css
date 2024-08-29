@@ -1,0 +1,52 @@
+.footer {
+    height: 295px;
+    width: 100%;
+    background-color: #0f0f0f;
+}
+.line {
+    color: rgba(210, 210, 210, 0.549);
+    background-color:  rgba(202, 202, 202, 0.549);
+    height: 1px solid;
+    width: 90%;
+}
+.footer table {
+    padding-top: 40px;
+}
+.my-copyright table {
+    padding-top: 10px;
+}
+.my-copyright a {
+    color: white;
+    text-decoration: none;
+}
+.my-copyright a:hover{
+    text-shadow: 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+}
+.social img{
+    color: white;
+    height: 20px;
+    width: 20px;
+    padding: 4px;
+    border: 1px solid white;
+    border-radius: 3px;
+    text-decoration: none;
+  }
+.social img:hover {
+    box-shadow: 0 0 0.3em rgb(255, 255, 255);
+}
+.footer-table p {
+    color: #bdbdbdba;
+    font-weight: bold;
+    font-size: 14px;
+}
+.footer-table a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.footer-table a:hover {
+    text-shadow: 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+}

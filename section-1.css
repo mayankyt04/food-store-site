@@ -1,0 +1,38 @@
+.section1 {
+    height: 350px;
+    width: 100%;
+    padding-top: 45px;
+}
+.section1 td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sectioncard {
+    height: 250px;
+    width: 350px;
+    background: #ffffff;
+    border: 1px solid #b6b6b6;
+    border-radius: 10px;
+    transition: 0.4s;
+}
+.sectioncard:hover {
+    transform: scale(1.04);
+    transition: 0.4s;
+}
+.sectioncard img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.sectioncard table {
+    padding-top: 12px;
+}
+.imgheading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #1d1d1d;
+}
+.imgcaption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: #6b6b6b;
+}
